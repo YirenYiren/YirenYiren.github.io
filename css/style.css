@@ -278,8 +278,12 @@ footer p {
     margin-top: 3.5rem;
   }
 
-  .large+.social-icons {
+  .large + .social-icons {
     margin-top: 3.5rem;
+  }
+
+  h2 + .btn {
+    padding: 1.2rem 1rem;
   }
 }
 
